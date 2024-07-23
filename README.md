@@ -2,7 +2,7 @@
 
 La tua privacy è importante per noi. Questa Informativa sulla Privacy descrive quali informazioni raccogliamo quando utilizzi "Shield" su Discord, come le utilizziamo e come le proteggiamo.
 
-# 1. Informazioni raccolte
+## 1. Informazioni raccolte
 
 Shield raccoglie solo le informazioni strettamente necessarie per il suo funzionamento:
 
@@ -21,7 +21,7 @@ Rispondere ai comandi inviati dagli utenti.
 
 Assicurare la sicurezza del servizio.
 
-<b>3. Condivisione delle informazioni</b>
+## 3. Condivisione delle informazioni
 
 Non condividiamo le tue informazioni personali con terze parti, salvo nei seguenti casi:
 
@@ -29,15 +29,15 @@ Con il tuo consenso: Se ci dai il permesso di farlo.
 
 Obblighi legali: Se richiesto dalla legge.
 
-<b>4. Sicurezza delle informazioni</b>
+## 4. Sicurezza delle informazioni
 
 Adottiamo misure appropriate per proteggere le informazioni da accessi non autorizzati.
 
-<b>5. Conservazione delle informazioni</b>
+## 5. Conservazione delle informazioni
 
 Conserviamo le informazioni solo per il tempo necessario a fornire il servizio, salvo che la legge richieda un periodo di conservazione più lungo.
 
-<b>6. I tuoi diritti</b>
+## 6. I tuoi diritti
 
 Hai il diritto di:
 
@@ -45,11 +45,11 @@ Accedere alle informazioni che abbiamo su di te.
 Richiedere la correzione o la cancellazione delle tue informazioni.
 Per esercitare questi diritti, contattaci in privato tramite il server di supporto.
 
-<b>7. Modifiche alla Privacy Policy</b>
+## 7. Modifiche alla Privacy Policy
 
 Ci riserviamo il diritto di aggiornare questa Privacy Policy. Ti informeremo di eventuali modifiche pubblicando la nuova Privacy Policy su questa pagina.
 
-<b>8. Contattaci</b>
+## 8. Contattaci
 
 Grazie per aver scelto Shield! Per qualsiasi problema, domande o preoccupazioni contattaci direttamente sul nostro supporto ufficiale di Discord:
 https://discord.gg/gDndJud2HG
