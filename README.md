@@ -1,4 +1,4 @@
-<b>Informativa sulla Privacy</b>
+<p class="testo-grande">Informativa sulla Privacy</p>
 <hr class="sottile">
 
 La tua privacy è importante per noi. In questa Informativa sulla Privacy descriviamo quali tipi di informazioni raccogliamo quando utilizzi Shield, come utilizziamo tali informazioni e le misure che adottiamo per proteggere la tua privacy.
