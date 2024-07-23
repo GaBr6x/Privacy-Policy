@@ -2,7 +2,7 @@
 
 La tua privacy è importante per noi. Questa Informativa sulla Privacy descrive quali informazioni raccogliamo quando utilizzi "Shield" su Discord, come le utilizziamo e come le proteggiamo.
 
-<b>1. Informazioni raccolte</b>
+# 1. Informazioni raccolte
 
 Shield raccoglie solo le informazioni strettamente necessarie per il suo funzionamento:
 
@@ -11,7 +11,7 @@ Utilizzati per identificare gli utenti e rispondere ai comandi.
 
 Comandi inviati al bot: Utilizzati per fornire risposte appropriate e migliorare il servizio.
 
-<b>2. Utilizzo delle informazioni</b>
+## 2. Utilizzo delle informazioni
 
 Le informazioni raccolte vengono utilizzate esclusivamente per:
 
