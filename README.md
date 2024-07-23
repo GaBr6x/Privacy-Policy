@@ -1,12 +1,5 @@
 <b>Informativa sulla Privacy</b>
 <hr class="sottile">
-<style>
-    .sottile {
-        border: none;
-        border-top: 1px solid black; /* Puoi cambiare il colore se vuoi */
-        margin: 20px 0; /* Aggiunge uno spazio sopra e sotto la linea */
-    }
-</style>
 
 La tua privacy è importante per noi. In questa Informativa sulla Privacy descriviamo quali tipi di informazioni raccogliamo quando utilizzi Shield, come utilizziamo tali informazioni e le misure che adottiamo per proteggere la tua privacy.
 
