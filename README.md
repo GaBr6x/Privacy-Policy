@@ -51,7 +51,6 @@ Ci riserviamo il diritto di aggiornare questa Privacy Policy. Ti informeremo di 
 
 <b>8. Contattaci</b>
 
-Per domande o preoccupazioni riguardo a questa Privacy Policy, contattaci a:
-
-Email: [Tua Email]
+Grazie per aver scelto Shield! Per qualsiasi problema, domande o preoccupazioni contattaci direttamente sul nostro supporto ufficiale di Discord:
+https://discord.gg/gDndJud2HG
 
