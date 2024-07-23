@@ -14,11 +14,13 @@ Le informazioni raccolte vengono utilizzate esclusivamente per:
 Fornire e migliorare le funzionalità del bot.
 Rispondere ai comandi inviati dagli utenti.
 Assicurare la sicurezza del servizio.
+
 <b>3. Condivisione delle informazioni</b>
 Non condividiamo le tue informazioni personali con terze parti, salvo nei seguenti casi:
 
 Con il tuo consenso: Se ci dai il permesso di farlo.
 Obblighi legali: Se richiesto dalla legge.
+
 <b>4. Sicurezza delle informazioni</b>
 Adottiamo misure appropriate per proteggere le informazioni da accessi non autorizzati. Tuttavia, nessun sistema di sicurezza è infallibile.
 
