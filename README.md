@@ -1,4 +1,4 @@
-<b>Privacy Policy di Shield</b>
+# Privacy Policy di Shield
 <hr>
 
 La tua privacy è importante per noi. Questa Informativa sulla Privacy descrive quali informazioni raccogliamo quando utilizzi "Shield" su Discord, come le utilizziamo e come le proteggiamo.
