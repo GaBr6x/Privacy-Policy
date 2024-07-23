@@ -44,6 +44,7 @@ Hai il diritto di:
 Accedere alle informazioni che abbiamo su di te.
 Richiedere la correzione o la cancellazione delle tue informazioni.
 Per esercitare questi diritti, contattaci in privato tramite il server di supporto.
+
 <b>7. Modifiche alla Privacy Policy</b>
 
 Ci riserviamo il diritto di aggiornare questa Privacy Policy. Ti informeremo di eventuali modifiche pubblicando la nuova Privacy Policy su questa pagina.
