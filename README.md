@@ -38,6 +38,7 @@ Adottiamo misure appropriate per proteggere le informazioni da accessi non autor
 Conserviamo le informazioni solo per il tempo necessario a fornire il servizio, salvo che la legge richieda un periodo di conservazione più lungo.
 
 <b>6. I tuoi diritti</b>
+
 Hai il diritto di:
 
 Accedere alle informazioni che abbiamo su di te.
@@ -45,9 +46,11 @@ Richiedere la correzione o la cancellazione delle tue informazioni.
 Per esercitare questi diritti, contattaci all'indirizzo email fornito di seguito.
 
 <b>7. Modifiche alla Privacy Policy</b>
+
 Ci riserviamo il diritto di aggiornare questa Privacy Policy. Ti informeremo di eventuali modifiche pubblicando la nuova Privacy Policy su questa pagina.
 
 <b>8. Contattaci</b>
+
 Per domande o preoccupazioni riguardo a questa Privacy Policy, contattaci a:
 
 Email: [Tua Email]
