@@ -7,6 +7,7 @@ Shield raccoglie solo le informazioni strettamente necessarie per il suo funzion
 
 ID utente Discord e nome utente: Utilizzati per identificare gli utenti e rispondere ai comandi.
 Comandi inviati al bot: Utilizzati per fornire risposte appropriate e migliorare il servizio.
+
 <b>2. Utilizzo delle informazioni</b>
 Le informazioni raccolte vengono utilizzate esclusivamente per:
 
