@@ -1,16 +1,48 @@
-<p class="testo-grande">Informativa sulla Privacy</p>
-<hr class="sottile">
+Privacy Policy di Shield
 
-La tua privacy è importante per noi. In questa Informativa sulla Privacy descriviamo quali tipi di informazioni raccogliamo quando utilizzi Shield, come utilizziamo tali informazioni e le misure che adottiamo per proteggere la tua privacy.
+Ultimo aggiornamento: [Data]
 
-<b>Sicurezza dei Dati</b>
-Ci impegniamo a proteggere la sicurezza dei dati raccolti da Shield e ad adottare misure appropriate per prevenire l'accesso non autorizzato, la divulgazione, la modifica o la distruzione dei dati. Tuttavia, si prega di notare che nessun metodo di trasmissione o archiviazione dei dati su Internet può essere garantito al 100% sicuro. Mentre ci sforziamo di proteggere i tuoi dati personali, non possiamo garantire la sicurezza assoluta dei dati trasmessi a Shield.
+La presente Informativa sulla Privacy descrive come "Shield" ("il Bot", "noi", "ci" o "nostro") raccoglie, utilizza e protegge le informazioni personali degli utenti ("tu" o "utente") nel contesto del servizio offerto su Discord.
 
-<b>Utilizzo delle Informazioni</b>
-Le informazioni raccolte da Shield vengono utilizzate esclusivamente per migliorare l'esperienza dell'utente e ottimizzare le prestazioni del bot. Non condividiamo, vendiamo o trasferiamo in altro modo le informazioni che raccogliamo a terzi senza il tuo consenso.
+1. Informazioni che raccogliamo
+Shield può raccogliere le seguenti tipologie di informazioni:
 
-<b>Informazioni Raccolte</b>
-Shield non raccoglie informazioni personali identificabili su di te. Tuttavia, potremmo raccogliere e memorizzare alcune informazioni tecniche non personali durante l'utilizzo del bot, come ID, dati di utilizzo, statistiche di accesso, errori di sistema, ecc. Questi dati vengono utilizzati SOLO per migliorare le prestazioni e le funzionalità di Shield e non per altro.
+Informazioni sull'account Discord: Nome utente, ID utente, avatar, e altre informazioni associate al tuo account Discord.
+Messaggi e contenuti generati dagli utenti: Testi, comandi e altri contenuti inviati al bot.
+Dati di utilizzo: Informazioni su come interagisci con il bot, inclusi log delle attività, comandi utilizzati e risposte generate.
+2. Come utilizziamo le informazioni
+Le informazioni raccolte possono essere utilizzate per:
 
-<b>Modifiche all'Informativa sulla Privacy</b>
-Ci riserviamo il diritto di apportare modifiche a questa Informativa sulla Privacy in qualsiasi momento e per qualsiasi motivo. Ti consigliamo di controllare periodicamente questa pagina per eventuali aggiornamenti o modifiche alla nostra Informativa sulla Privacy. Il tuo uso continuato di Shield a seguito della pubblicazione di eventuali modifiche costituirà l'accettazione di tali modifiche.
+Fornire e migliorare le funzionalità del bot.
+Rispondere a domande e comandi inviati dagli utenti.
+Monitorare e analizzare l'uso del bot per migliorare la sua funzionalità e prestazioni.
+Assicurare la sicurezza e prevenire abusi o attività illecite.
+3. Condivisione delle informazioni
+Non condividiamo le tue informazioni personali con terze parti, salvo nei seguenti casi:
+
+Con il tuo consenso: Condivideremo le tue informazioni quando ci hai dato il permesso di farlo.
+Obblighi legali: Se richiesto dalla legge, regolamenti o ordini di tribunali.
+4. Sicurezza delle informazioni
+Adottiamo misure di sicurezza tecniche e organizzative adeguate per proteggere le informazioni personali degli utenti da accessi non autorizzati, perdita, distruzione o divulgazione. Tuttavia, nessun sistema di sicurezza è impenetrabile e non possiamo garantire la completa sicurezza dei tuoi dati.
+
+5. Conservazione delle informazioni
+Conserviamo le tue informazioni personali solo per il tempo necessario a soddisfare le finalità per cui sono state raccolte, salvo che la legge non richieda o consenta un periodo di conservazione più lungo.
+
+6. I tuoi diritti
+In base alla legislazione applicabile, potresti avere il diritto di:
+
+Accedere alle informazioni personali che deteniamo su di te.
+Richiedere la correzione di informazioni personali inaccurate.
+Richiedere la cancellazione delle tue informazioni personali.
+Opporsi al trattamento delle tue informazioni personali.
+Richiedere la limitazione del trattamento delle tue informazioni personali.
+Richiedere il trasferimento delle tue informazioni personali a un'altra organizzazione.
+Per esercitare questi diritti, contattaci all'indirizzo email fornito di seguito.
+
+7. Modifiche alla presente Privacy Policy
+Ci riserviamo il diritto di aggiornare o modificare questa Privacy Policy in qualsiasi momento. Ti informeremo di eventuali modifiche pubblicando la nuova Privacy Policy su questa pagina. Ti invitiamo a rivedere periodicamente questa pagina per rimanere informato sulle modalità di protezione delle tue informazioni.
+
+8. Contattaci
+Se hai domande o preoccupazioni riguardo a questa Privacy Policy o alle nostre pratiche di trattamento dei dati, ti preghiamo di contattarci a:
+
+Email: [Tua Email]
