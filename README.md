@@ -31,7 +31,7 @@ Obblighi legali: Se richiesto dalla legge.
 
 <b>4. Sicurezza delle informazioni</b>
 
-Adottiamo misure appropriate per proteggere le informazioni da accessi non autorizzati. Tuttavia, nessun sistema di sicurezza è infallibile.
+Adottiamo misure appropriate per proteggere le informazioni da accessi non autorizzati.
 
 <b>5. Conservazione delle informazioni</b>
 
